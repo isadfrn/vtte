@@ -4,7 +4,7 @@
 ![Repository size](https://img.shields.io/github/repo-size/isadfrn/vtte?style=flat-square)
 ![Last commit](https://img.shields.io/github/last-commit/isadfrn/vtte?style=flat-square)
 
-Cross-platform command-line tool (Windows, Linux, and Mac) that transcribes audio from video and audio files (`.mp4`, `.mov`, `.mkv`, `.mp3`, `.m4a`, `.wav`) into Markdown files, using [Whisper.cpp](https://github.com/ggerganov/whisper.cpp) locally — 100% offline, without sending data to any server.
+Cross-platform command-line tool (Windows, Linux, and Mac) that transcribes audio from video and audio files (`.mp4`, `.mov`, `.mkv`, `.mp3`, `.m4a`, `.wav`) into Markdown files, using [Whisper.cpp](https://github.com/ggerganov/whisper.cpp) locally, 100% offline, without sending data to any server.
 
 ## Prerequisites
 
